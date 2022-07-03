@@ -39,7 +39,7 @@
 				<div class="sfondo2">
 					<div class="text-bici">
 							<p style="text-align:center ;font-size:5em;">
-								Ma quali <br>sono i <strong>rischi</strong> <br> di una <br> miniera nel <br>Parco del <br>Beigua?
+								Ma quali <br>sono i <strong>rischi</strong> <br> di una <br> miniera di titanio nel <br>Parco del <br>Beigua?
 							</p>
 						<br />
 						<br />
@@ -182,7 +182,7 @@ A questi costi si aggiungono quelli correlati alla mitigazione del rischio ambie
 													<div class="text8">
 
 														<p class="titolo">
-															<strong>Rischi Amianto</strong>
+															<strong>Rischi amianto</strong>
 														<p>
 															
 La presenza delle fibre di amianto nell’ambiente comporta danni a carico della salute, anche in presenza di pochi elementi. I rischi maggiori sono legati alla presenza delle fibre nell’aria, che una volta inalate si depositano nelle nelle cellule polmonari, dove possono rimanere per diversi anni, facendo insorgere forme tumorali.
