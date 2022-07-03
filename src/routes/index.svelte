@@ -111,12 +111,14 @@
 
 										<p class="titolo">
 											<strong>
-												Il titanio,unarisorsa"critica" e "strategica"										</strong>
+												
+											Il rutilo nel giacimento di Piampaludo
+									</strong>
 
 										</p>
 
 										<p>
-											Il titanio è stato inserito dalla Comunità Europea nell'elenco delle materie prime "critiche" e "strategiche", ovvero tra quelle risorse che, oltre al valore economico, presentano elevati rischi di approvvigionamento.
+Nel giacimento di Piampaludo il titanio non si trova allo stato puro, ma sotto forma di rutilo. Per questo motivo, una volta separato meccanicamente e chimicamente dalle rocce di eclogite, la piccola percentuale di rutilo presente potrebbe essere utilizzata esclusivamente come opacizzante per vernici (prodotto normalmente importato dalla Cina a circa 2,5 $ al kg.)
 
 										</p>
 
