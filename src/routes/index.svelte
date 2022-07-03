@@ -132,13 +132,15 @@ Nel giacimento di Piampaludo il titanio non si trova allo stato puro, ma sotto f
 										<div class="s2" />
 										<p class="titolo">
 										<strong>
-											Il rutilo nel giacimento di Piampaludo										</strong>
+										
+Estrazione del rutilio
+									</strong>
 										</p>
 
 										<p>
 											
-Nel giacimento di Piampaludo il titanio non si trova allo stato puro, ma sotto forma di rutilo. Per questo motivo, una volta separato meccanicamente e chimicamente dalle rocce di eclogite, la piccola percentuale di rutilo presente potrebbe essere utilizzata esclusivamente come opacizzante per vernici (prodotto normalmente importato dalla Cina a circa 2,5 $ al kg.)
-										</p>
+Nonostante le potenzialità economiche dei giacimenti di rutilo ad oggi esiste soltanto una miniera attiva di queste rocce; ciò è dovuto sia agli altissimi costi di estrazione delle rocce, sia alle costose procedure di estrazione del minerale utile.
+A questi costi si aggiungono quelli correlati alla mitigazione del rischio ambientale e sanitario aggravati dalla presenza rilevante di elementi tossici come amianto.										</p>
 										<br /><br />
 								
 								
