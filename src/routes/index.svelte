@@ -2,6 +2,10 @@
 	import Nav from './navbar.svelte';
 	import BackToTop from './BackToTop.svelte';
 </script>
+<svelte:head>
+	<title>No Alla Miniera nel Parco del Beigua</title>
+
+</svelte:head>
 
 <div class="flexy">
 	<div class="top-app-bar-container flexor">
