@@ -26,8 +26,8 @@
 					
 					<p>
 
-						Il comprensorio del Parco Naturale Regionale del Beigua, la più vasta area naturale protetta della Liguria, custodisce gelosamente la storia geologica della regione, raccontata attraverso affioramenti rocciosi, mineralizzazioni, giacimenti fossiliferi e spettacolari forme modellate senza sosta per effetto degli agenti esogeni. Per l'eccezionale patrimonio geologico presente, nel novembre 2015, lo stesso territorio è stato riconosciuto come sito UNESCO ed inserito nella prestigiosa lista dei Geoparchi Globali.</p>
 
+						Il comprensorio del Parco Naturale Regionale del Beigua, la più vasta area naturale protetta della Liguria, custodisce gelosamente la storia geologica della regione. Per l'eccezionale patrimonio geologico presente, nel novembre 2015, lo stesso territorio è stato riconosciuto come sito <strong>UNESCO</strong> ed inserito nella prestigiosa lista dei Geoparchi Globali.</p>
 					<br />
 					<br />
 				</div>
@@ -54,18 +54,10 @@
 							</p>
 							<p class="titolo">
 								<strong>
-								Impatto ambientale dell'estrazione del titanio
-							</strong>
+									Materiale di scarto							</strong>
 							</p>
 							<p>
-								L'attività mineraria comporta la produzione di
-materiali sono di norma deposti nell'area mineraria in
-dimensioni considerevoli o entro bacini naturali e artificiali.
-Nel caso delle miniere di titanio la
-concentrazione di TiO2
-coltivati varia tra il 5 e il 20%, implicando che oltre l'80% del materiale estratto è
-dei giacimenti attualmente
-sterile ed è destinato a discarica.
+								La concentrazione di rutilo nel giacimento di Piampaludo è del 6%, ciò implica che oltre il 90% del materiale estratto è destinato alla discarica.
 							</p>
 					
 						
@@ -91,15 +83,11 @@ sterile ed è destinato a discarica.
 									<p class="titolo">
 										<strong>
 
-										Estrazione del rutilio
-									</strong>							</p>
+
+											 I danni dell’estrazione di rutilo
+																			</strong>							</p>
 									<p>
-										Nonostante le considerevoli potenzialità economiche dei giacimenti di rutilo ad oggi
-										esiste
-									  soltanto una miniera attiva di queste rocce;
-									   di estrazione delle rocce, sia alle costose procedure di estrazione del minerale utile
-									  A questi costi si aggiungono quelli correlati alla mitigazione del rischio ambientale e
-									   sanitario aggravati dalla presenza rilevante di elementi tossici come amianto.
+										L’estrazione del rutilo porterebbe gravi danni al Parco, tra cui grandi consumi d’acqua destinati alla vallata, inquinamento dei torrenti, transiti di camion continui e centinaia di ettari devastati per far spazio alla cava a cielo aperto.
 									   
 									</p>
 									<br />
@@ -123,17 +111,12 @@ sterile ed è destinato a discarica.
 
 										<p class="titolo">
 											<strong>
-												Utilizzi del titanio
-										</strong>
+												Il titanio,unarisorsa"critica" e "strategica"										</strong>
 
 										</p>
 
 										<p>
-											Il titanio è un elemento utilizzato in molteplici settori: dall’industria dei pigmenti a
-quella di vernici e ceramiche le sue peculiari proprietà ottiche lo rendono una risorsa
-di grande rilevanza, complice il fatto di non aver composti sostitutivi conosciuti.
-Larga parte del materiale estratto è impiegata nell’industria aerospaziale e nella produzione di protesi, per via della sua eccellente compatibilità biologica, mente è
-sempre più frequente il suo utilizzo nell’industria cosmetica e alimentare.
+											Il titanio è stato inserito dalla Comunità Europea nell'elenco delle materie prime "critiche" e "strategiche", ovvero tra quelle risorse che, oltre al valore economico, presentano elevati rischi di approvvigionamento.
 
 										</p>
 
@@ -147,16 +130,12 @@ sempre più frequente il suo utilizzo nell’industria cosmetica e alimentare.
 										<div class="s2" />
 										<p class="titolo">
 										<strong>
-											Il giacimento di Piampaludo e il rutilio
-										</strong>
+											Il rutilo nel giacimento di Piampaludo										</strong>
 										</p>
 
 										<p>
-											Il giacimento di titanio di Piampaludo è conosciuto e studiato dagli anni '70 e
-consiste in masse mineralizzate a rutilo concentrate all'interno di rocce
-denominate eclogiti che affiorano soprattutto in corrispondenza dei Monti Antenna
-e Tariné. Secondo valutazioni di esperti si tratterebbe di uno dei più grandi
-giacimenti europei di questo minerale.
+											
+Nel giacimento di Piampaludo il titanio non si trova allo stato puro, ma sotto forma di rutilo. Per questo motivo, una volta separato meccanicamente e chimicamente dalle rocce di eclogite, la piccola percentuale di rutilo presente potrebbe essere utilizzata esclusivamente come opacizzante per vernici (prodotto normalmente importato dalla Cina a circa 2,5 $ al kg.)
 										</p>
 										<br /><br />
 								
@@ -180,16 +159,10 @@ giacimenti europei di questo minerale.
 																												<div class="text6">
 
 													<p class="titolo">
-														<strong>Rischi amianto</strong>
+														<strong>Minerali dannosi per la salute</strong>
 														<p>	
 															<p>
-																Sebbene il titanio non abbia un impatto significativo per la salute, esistono rischi
-																correlati alla presenza di metalli potenzialmente ecotossici e di amianto. La
-																presenza delle fibre di amianto nell’ambiente comporta infatti danni a carico della
-																salute, anche in presenza di pochi elementi. I rischi maggiori sono legati alla
-																presenza delle fibre nell’aria, che una volta inalate si depositano nelle nelle cellule
-																polmonari, dove possono rimanere per diversi anni, facendo insorgere forme
-																tumorali.
+																Nella composizione delle rocce del giacimento di rutilo di Piampaludo sono stati scoperti <strong> metalli potenzialmente ecotossici </strong>come cobalto, nichel, cromo, vanadio e zinco, e di minerali classificati come amianto; la presenza di amianto in particolare è pari al 10/15%.
 															</p>
 												
 													
@@ -201,12 +174,11 @@ giacimenti europei di questo minerale.
 													<div class="text8">
 
 														<p class="titolo">
-															<strong>Rischi titanio</strong>
+															<strong>Rischi Amianto</strong>
 														<p>
-															La polvere di titanio è altamente infiammabile e allo stato gassoso risulta tossico se
-															inalato; quindi, un'esposizione eccessiva alle sue polveri può provocare variazioni nei
-															polmoni e difficoltà respiratorie. Un ulteriore danno per la salute potrebbe essere il
-															rischio di inquinamento delle falde acquifere.													</p>
+															
+La presenza delle fibre di amianto nell’ambiente comporta danni a carico della salute, anche in presenza di pochi elementi. I rischi maggiori sono legati alla presenza delle fibre nell’aria, che una volta inalate si depositano nelle nelle cellule polmonari, dove possono rimanere per diversi anni, facendo insorgere forme tumorali.
+								</p>
 													</div>
 													 <div class="erbetta"></div>
 													 <div class="sfondo11">
