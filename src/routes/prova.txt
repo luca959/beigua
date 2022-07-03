@@ -1,0 +1,766 @@
+@media(min-width:470px) {
+	.montagne{
+		background-size: cover !important;
+    	top: 80% !important;
+    	height: 110% !important;
+		width: 100% !important;
+		z-index: -2 !important;;
+	}
+	.onda{
+		top: 70% !important;
+
+	}
+	.s2{
+		top: 47% !important;
+
+	}
+	.s3{
+		top: 72% !important;
+
+	}
+
+
+}
+@media(min-width:514px) {
+	.community{
+		top: 90% !important;
+	}
+	.s2{
+		top:45% !important;
+	}
+	.s3{
+		top:70% !important;
+	}
+
+}
+@media(min-width:600px) {
+	.colline{
+		top:69% !important;
+	}
+	.fiori{
+		top:130% !important;
+		height: 100% !important;
+
+	}
+	.bici{
+		top:70% !important;
+		height: 70% !important;
+	}
+	.collina-strada{
+		top:78% !important;
+	}
+
+	.s1{
+		top:40% !important;
+	
+	}
+	.s2{
+		top:40% !important;
+	
+	}
+	.s3{
+		top:65% !important;
+	}
+	.community{
+		top:85% !important;
+	}
+
+}
+@media(min-width:620px) {
+	.colline{
+		top: 60% !important;
+	}
+	.montagne{
+		top:73% !important;
+	}
+
+}
+@media(min-width:680px) {
+	.colline{
+		top: 58% !important;
+	}
+	.montagne{
+		top:69% !important;
+	}
+	.fiori{
+		top: 125% !important;
+
+	}
+	.zaino{
+		top: 110% !important;
+		height: 80% !important;
+	}
+	.s2{
+		height: 80% !important;
+		top:50% !important;
+
+	}
+	.s3{
+		height: 80% !important;
+		top:76% !important;
+	}
+	.community{
+		top: 78% !important;
+	}
+}
+@media(min-width:700px) {
+	h1{
+		position: fixed !important;
+		top: -10% !important;
+	}
+  /* For tablets: */
+  .colline{
+    z-index: 1 !important;
+    background-size: cover !important;
+    top: 19% !important;
+	height: 108% !important;
+
+	}
+  
+	.montagne{
+		background-size: cover !important;
+    	top: 20% !important;
+    	height: 100% !important;
+		width: 100% !important;
+		z-index: -2 !important;;
+	}
+	.fiori{
+		background-size: cover !important;
+    	top: 85% !important;
+    	height: 100% !important;
+		width: 100% !important;
+		z-index: 1 !important;;
+	}
+	.sfondo{
+		top: 70%!important;
+		
+	}
+	.text{
+		margin-top: 60% !important;
+	}
+	.bosco{
+		top: 90% !important;
+		height:100% !important;
+	}
+	.sfondo2{
+		top: 70%  !important ;
+		margin-bottom: 5% !important;
+	}
+	.bici{
+		top: 60% !important;
+		height: 70% !important;
+	}
+	.zaino{
+		height: 100% !important;
+	}
+	.sole{
+		height: 100% !important;
+		top: 150% !important;
+	}
+	.sfondo3{
+		margin-top: 0% !important;
+		top: 102% !important;
+		z-index: 4 !important;
+	}
+	.sfondo4{
+		top: 130% !important;	
+	}
+	.collina-strada{
+		top: 75% !important;
+		height: 100% !important;
+		z-index: 9999 !important;
+		width: 100% !important;
+	}
+	.s1{
+		width: 80% !important;
+		top: 42% !important;
+		
+	}
+	.s2{
+		width: 80% !important;
+		top: 55% !important;
+		
+	}
+	.s3{
+		width: 80% !important;
+		top: 85% !important;
+		
+	}
+	.onda{
+		height: 100% !important;
+	}
+	.community{
+		top:60% !important;
+		height: 100% !important;
+	}
+	.onda2{
+		height: 85% !important;
+	}
+	.yoga{
+		height: 100% !important;
+	}
+	.azzurro{
+		height: 100% !important;
+	}
+	.sfondo10{
+		top:100% !important;
+	}
+}
+
+@media(min-width:800px) {
+	.sfondo4{
+		top:140% !important;
+	}
+	.s3{
+		top:82% !important;	
+	}
+	.community{
+		top:56% !important;
+	}
+	.bici{
+		height: 62% !important;
+	}
+	.sfondo2{
+		text-align: center !important;
+	}
+	.fiori{
+		top:87% !important;
+
+	}
+}
+
+@media (min-width: 820px) {
+	.s2{
+		top:52% !important;
+		
+	}
+	.bici{
+		height: 70% !important;
+	}
+	.fiori{
+		top:87% !important;
+
+	}
+	.colline{
+		top: 20% !important;;
+		height: 130% !important;
+	}
+}
+
+	@media (max-width: 480px) {
+		.top-app-bar-container {
+			margin-right: 0;
+		}
+	}
+
+	@media (min-width: 870px) {
+		.s2{
+			top: 50% !important; ;
+		}
+		.s3{
+			top: 80% !important; ;
+		}
+	}
+
+	@media (min-width: 920px) {
+		.s2{
+			top: 49% !important; ;
+		}
+		.s3{
+			top: 80% !important; ;
+		}
+	}
+	@media (min-width: 940px) {
+		.colline{
+			height: 140% !important;
+		}
+		h1{
+			position: fixed !important;
+			top: -30% !important;
+		}
+	}
+	@media (min-width: 960px) {
+		.collina-strada{
+			height: 110% !important;
+		}
+		h1{
+			position: fixed !important;
+			top: -30% !important;
+		}
+	}
+	@media (min-width: 980px) {
+		.s1{
+			top: 32% !important; 
+			height: 30% !important;
+
+		}
+		.s2{
+			top: 35% !important; 
+			height: 55% !important;
+		}
+		.s3{
+			top: 77% !important; 
+
+		}
+		h1{
+			position: fixed !important;
+			top: -30% !important;
+		}
+	}
+	@media (min-width: 1020px) {
+		.colline{
+			height: 150% !important;
+		}
+		.community{
+			top: 49% !important;
+		}
+		h1{
+			position: fixed !important;
+			top: -30% !important;
+		}
+	}
+
+	@media (min-width: 1060px) {
+		.colline{
+			height: 160% !important;
+		}
+		.s2{
+			top: 34% !important;
+			height: 54% !important;
+		}
+		.community{
+			top: 50% !important;
+
+		}
+	}
+	@media (min-width: 1100px) {
+		.montagne{
+			height: 130% !important;
+			
+		}
+		.colline{
+			top:10% !important;
+		}
+		.fiori{
+			top: 91% !important;
+		}
+		h1{
+			position: fixed !important;
+			top: -30% !important;
+		}
+	}
+	@media (min-width: 1130px) {
+		.montagne{
+			height: 130% !important;
+			
+		}
+		.colline{
+			top:11% !important;
+		}
+		.fiori{
+			top: 91% !important;
+		}
+		.s3{
+			top: 75% !important;
+		}
+		h1{
+			position: fixed !important;
+			top: -30% !important;
+		}
+	}
+	@media (min-width: 1160px) {
+		.montagne{
+			height: 130% !important;
+			
+		}
+		.colline{
+			top:12% !important;
+		}
+		.collina-strada{
+			top:60% !important;
+		}
+		h1{
+			position: fixed !important;
+			top: -30% !important;
+		}
+	}
+	@media (min-width: 1180px) {
+		.montagne{
+			height: 130% !important;
+
+		}
+		.colline{
+			height: 170% !important;
+
+			top:12% !important;
+		}
+		.collina-strada{
+			top:60% !important;
+		}
+		h1{
+			position: fixed !important;
+			top: -30% !important;
+		}
+	
+	}
+	@media (min-width: 1219px) {
+		.montagne{
+			height: 130% !important;
+
+		}
+		.colline{
+			height: 170% !important;
+			top:11% !important;
+		}
+		.collina-strada{
+			top:60% !important;
+		}
+		h1{
+			position: fixed !important;
+			top: -30% !important;
+		}
+	
+	}
+	@media (min-width: 1230px) {
+		.montagne{
+			height: 130% !important;
+
+		}
+		.colline{
+			height: 170% !important;
+			top:10% !important;
+		}
+		.collina-strada{
+			top:60% !important;
+		}
+		h1{
+			position: fixed !important;
+			top: -30% !important;
+		}
+	
+	}
+
+	@media (min-width: 1240px) {
+		.montagne{
+			height: 130% !important;
+
+		}
+		.colline{
+			height: 170% !important;
+			top:9% !important;
+		}
+		.collina-strada{
+			top:60% !important;
+		}
+		h1{
+			position: fixed !important;
+			top: -30% !important;
+		}
+		.fiori{
+			top:90% !important;
+
+		}
+	
+	}
+	@media (min-width: 1242px) {
+		.montagne{
+			height: 130% !important;
+
+		}
+		.colline{
+			height: 170% !important;
+			top:8% !important;
+		}
+		.collina-strada{
+			top:60% !important;
+		}
+		h1{
+			position: fixed !important;
+			top: -30% !important;
+		}
+		.fiori{
+			top:88% !important;
+
+		}
+	
+	}
+
+	@media (min-width: 1242px) {
+		.montagne{
+			height: 130% !important;
+
+		}
+		.colline{
+			height: 170% !important;
+			top:7% !important;
+		}
+
+		.fiori{
+			top:87% !important;
+
+		}
+	
+	}
+	@media (min-width: 1260px) {
+		.montagne{
+			height: 130% !important;
+
+		}
+		.colline{
+			height: 170% !important;
+			top:6% !important;
+		}
+
+		.fiori{
+			top:86% !important;
+
+		}
+	
+	}
+	@media (min-width: 1270px) {
+		.montagne{
+			height: 130% !important;
+
+		}
+		.colline{
+			height: 170% !important;
+			top:5% !important;
+		}
+
+		.fiori{
+			top:84% !important;
+
+		}
+	
+	}
+	@media (min-width: 1280px) {
+		.montagne{
+			height: 130% !important;
+
+		}
+		.colline{
+			height: 170% !important;
+			top:4% !important;
+		}
+
+		.fiori{
+			top:83% !important;
+
+		}
+	
+	}
+	@media (min-width: 1290px) {
+		.montagne{
+			height: 130% !important;
+
+		}
+		.colline{
+			height: 170% !important;
+			top:3% !important;
+		}
+
+		.fiori{
+			top:82% !important;
+
+		}
+	
+	}
+	@media (min-width: 1300px) {
+		.montagne{
+			height: 130% !important;
+
+		}
+		.colline{
+			height: 180% !important;
+			top:2% !important;
+		}
+
+		.fiori{
+			top:80% !important;
+
+		}
+	
+	}
+	@media (min-width: 1340px) {
+		.montagne{
+			height: 130% !important;
+
+		}
+		.colline{
+			height: 180% !important;
+			top:2% !important;
+		}
+
+		.fiori{
+			top:82% !important;
+
+		}
+	
+	}
+	@media (min-width: 1360px) {
+		.montagne{
+			height: 160% !important;
+
+		}
+		.colline{
+			height: 200% !important;
+			top:8% !important;
+		}
+
+		.fiori{
+			top:84% !important;
+
+		}
+	
+	}
+	@media (min-width: 1390px) {
+		.montagne{
+			height: 160% !important;
+
+		}
+		.colline{
+			height: 200% !important;
+			top:6% !important;
+		}
+
+		.fiori{
+			top:84% !important;
+
+		}
+	
+	}
+	@media (min-width: 1400px) {
+		.montagne{
+			height: 160% !important;
+
+		}
+		.colline{
+			height: 200% !important;
+			top:2% !important;
+		}
+
+		.fiori{
+			top:84% !important;
+
+		}
+	
+	}
+	@media (min-width: 1420px) {
+		.montagne{
+			height: 160% !important;
+
+		}
+		.colline{
+			height: 200% !important;
+			top:2% !important;
+		}
+
+		.fiori{
+			top:84% !important;
+
+		}
+	
+	}
+	@media (min-width: 1440px) {
+		.montagne{
+			height: 160% !important;
+
+		}
+		.colline{
+			height: 200% !important;
+			top:0% !important;
+		}
+
+		.fiori{
+			top:84% !important;
+
+		}
+	
+
+	}
+	@media (min-width: 1430px) {
+		.montagne{
+			height: 160% !important;
+
+		}
+		.colline{
+			height: 240% !important;
+			top:-5% !important;
+		}
+
+		.fiori{
+			top:81% !important;
+			height: 110% !important;
+
+		}
+		h1{
+			position: fixed !important;
+			top: -40% !important;
+		}
+	
+	}
+
+	@media (min-width: 1480px) {
+		.montagne{
+			height: 160% !important;
+
+		}
+		.colline{
+			height: 200% !important;
+			top:-5% !important;
+		}
+
+		.fiori{
+			top:80% !important;
+			height: 110% !important;
+
+		}
+		h1{
+			position: fixed !important;
+			top: -40% !important;
+		}
+	
+	}
+	@media (min-width: 1500px) {
+		.montagne{
+			height: 160% !important;
+
+		}
+		.colline{
+			height: 210% !important;
+			top:-4% !important;
+		}
+
+		.fiori{
+			top:84% !important;
+			height: 110% !important;
+		}
+		h1{
+			position: fixed !important;
+			top: -50% !important;
+		}
+	
+	}
+
+
+	@media (min-width: 1520px) {
+		.montagne{
+			height: 160% !important;
+
+		}
+		.colline{
+			height: 210% !important;
+			top:-9% !important;
+		}
+
+		.fiori{
+			top:80% !important;
+
+		}
+		h1{
+			position: fixed !important;
+			top: -50% !important;
+		}
+	
+	}
+
