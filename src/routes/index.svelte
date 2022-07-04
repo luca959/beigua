@@ -244,7 +244,18 @@ La presenza delle fibre di amianto nell’ambiente comporta danni a carico della
 		top: 102% !important;
 	}
 }
+@media (min-width: 400px){
+	.zaino{
+		height: 90% !important;
+}
+	.sole{
+		height: 70% !important;
 
+	}	
+	.collina-strada{
+		top: 80% !important;
+	}
+}
 
 @media (min-width: 414px){
 	.sole{
